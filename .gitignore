@@ -308,3 +308,6 @@ Workflow
 *.Rhistory
 #*.zenodo.json
 #*.md
+*.txt
+*.json
+*.pkl

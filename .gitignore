@@ -306,5 +306,5 @@ Workflow
 *.fcs
 
 *.Rhistory
-*.zenodo.json
-*.md
+#*.zenodo.json
+#*.md
